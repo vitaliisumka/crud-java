@@ -1,5 +1,5 @@
 ## Technologies Used
 - Java
-- Spring
+- Spring 
 - Hibernate
 - Maven
